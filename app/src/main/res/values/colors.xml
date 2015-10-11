@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="peak_blue">#FF00B8FC</color>
+    <color name="pink">#FFFF2D55</color>
+    <color name="green">#FF4CD964</color>
+    <color name="purple">#FF5856D6</color>
+    <color name="orange">#FFFF9500</color>
+    <color name="blue">#FF0A89FF</color>
+    <color name="grey">#FF4A4A4A</color>
+    <color name="light_grey">#FF8D8E92</color>
+    <color name="red">#FFFD3C31</color>
+</resources>

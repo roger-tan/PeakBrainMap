@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PeakBrainMap</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_brain_map">YOUR PEAK BRAIN MAP</string>
+    <string name="introduction_brain_map">Review and compare how you\'re performing in each brain skill category</string>
+    <string name="age_group_fragment">Age Group</string>
+    <string name="profession_fragment">Profession Fragment</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
